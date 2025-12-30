@@ -1,0 +1,16 @@
+[project]
+name = "final-project-sergihrs"
+version = "0.1.0"
+description = "XAI Final Project"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "pip>=25.3",
+    "pandas>=2.0.3",
+    "scikit-learn>=1.4.2",
+    "shap>=0.42.1",
+    "matplotlib>=3.8.0",
+    "seaborn>=0.13.2",
+    "tqdm>=4.65.0",
+]
